@@ -2,7 +2,7 @@ backend:
   name: github
   repo: memories109/memories109.github.io
   branch: master
-  site_domain: hopeful-cray-187005.netlify.app
+  site_domain: https://hopeful-cray-187005.netlify.app/.netlify/identity
 
 media_folder: "assets/img/posts" # Media files will be stored in the repo under images/uploads
 public_folder: "/assets/img/posts" # The src attribute for uploaded media will begin with /images/uploads
