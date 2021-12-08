@@ -18,8 +18,7 @@ urls:
       url: /gallery
     - text: Shop
       url : /shop
-    - text: Contact
-      url : /contact
+    
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
