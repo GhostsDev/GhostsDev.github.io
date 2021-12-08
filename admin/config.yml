@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: memories109/memories109.github.io
+  repo: ghostsdev/ghostsdev.github.io
   branch: master
-  site_domain: hopeful-cray-187005.netlify.app
+  site_domain: flamboyant-kilby-d03653.netlify.app
   # https://hopeful-cray-187005.netlify.app/.netlify/identity
 
 media_folder: "assets/img/posts" # Media files will be stored in the repo under images/uploads
