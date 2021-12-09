@@ -13,7 +13,7 @@ permalink: "/blog/React-Beginning/"
 usemathjax: false
 ---
 
-# React 구조   ✨
+## React 구조   ✨
   ![react](/assets/img/posts/folder.png)
   - 기본적인 React 구조를 확인 할 수 있다. 
   
@@ -27,7 +27,7 @@ usemathjax: false
 {% gist memories109/5f43a8ed76c0f376705c941cb188a855 %}
 ~~~
 
-## ReactDOM이란 
+### ReactDOM이란 
 -  React는 모듈화 ReactDOM이 실행이 되면 App에 담겨져 있는 내용을 public/index.html 경로에 있는 id='root'에 렌더링 하도록 되어있는 구조이다. 
 
 ~~~javascript

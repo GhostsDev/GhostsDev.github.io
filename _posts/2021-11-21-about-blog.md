@@ -17,7 +17,7 @@ usemathjax: false
 
 ![Screenshot](https://drive.google.com/uc?export=view&id=1VCnN949u6AEM_AKTr2WgbcJWjBB5NXwI){:.lead width="1920" height="1080" loading="lazy"}
 
-# Jekyll's What is ?
+## Jekyll's What is ?
 Jekyll은 여러 텍스트 파일로부터 정적 웹사이트 구축을 위한 파일을 생성해주는 프레임워크이다.
 쉽게 말해서 Jekyll은 다양한 형식의 텍스트 파일을 웹 페이지 구성 요소인 HTML, CSS로 변환해준다.
 
