@@ -5,7 +5,7 @@ title: Blog - Jekyll 개념잡기
 excerpt: "GitHub Blog 서비스인 github.io 블로그 시작"
 date: 2021-12-09T11:28:03.104Z
 category:
-- Jekyll
+- jekyll
 - study
 summary: Jekyll Beginning Chep1
 keywords: blog
