@@ -1,6 +1,6 @@
 ---
 layout: post
-author: memories109
+author: Ghosts
 title: React Beginning Chep0
 date: 2021-12-09T11:28:03.104Z
 thumbnail-img: /assets/img/posts/logo-og.png
