@@ -63,7 +63,7 @@ export default App;
 ### ReactDOM이란 
 - React는 모듈화 ReactDOM이 실행이 되면 App에 담겨져 있는 내용을 public/index.html 경로에 있는 id='root'에 렌더링 하도록 되어있는 구조이다. 
 
-~~~ruby
+~~~javascript
 /* public/index.html line 27~31 */
     <title>React App</title>
   </head>
