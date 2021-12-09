@@ -23,12 +23,12 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
+author_logo: profile.jpg
 author: Ghosts
 author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
 author_email: "memories109@gmail.com"
 author_location: Seoul
-author_website_url: "https://memories109.github.io"
+author_website_url: "https://github.com/memories109"
 typewrite-text: Aiming for a full stack of Ghost developers that nobody cares about
 hero_cover_img: customeCover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
