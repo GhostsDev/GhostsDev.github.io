@@ -6,7 +6,7 @@ date: 2021-12-09T11:28:03.104Z
 thumbnail-img: /assets/img/posts/logo-og.png
 category: jekyll react blog
 summary: React Beginning Chep0
-keywords: jekyll react blog
+keywords: blog
 thumbnail: /assets/img/posts/logo-og.png
 permalink: /blog/react/
 ---
