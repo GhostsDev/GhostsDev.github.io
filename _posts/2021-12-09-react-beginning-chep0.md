@@ -21,7 +21,7 @@ node 설치 부터 React의 구조 파악에 중점을 두며
 - Create-React-App 라이브러리를 사용하기 위해 우선 nodejs를 설치 하도록 한다. 
 - nodejs 홈페이지 접속후 버젼은 테스트 과정이기에 상관없이 다운로드 진행
  nodejs.org
-  ![react](/assets/posts/img/reactsetting.png)
+  ![react](/assets/img/posts/reactsetting.png)
 ### nodejs를 설치가 되면 이제 부터 npm를 사용할수 있다.
 <code class="highlighter-rouge">
 npm 은 nodejs 패키지 관리툴이다. 
@@ -34,8 +34,8 @@ npx create-react-app blog
 
 
 - vscode 에서 React 설치
-  ![react](/assets/posts/img/create-react-app.png)
-  ![react](/assets/posts/img/setup.png)
+  ![react](/assets/img/posts/create-react-app.png)
+  ![react](/assets/img/posts/setup.png)
 
  설치가 완료된 이후 해당 폴더로 이동후 실행되는지 확인한다.
  
@@ -46,4 +46,4 @@ npm start
 잘실행이 되는 확인보자 
 
 - React의 기본 포트는 3000으로 시작한다. 
-![react](/assets/posts/img/localbasic.png)
+![react](/assets/img/posts/localbasic.png)
