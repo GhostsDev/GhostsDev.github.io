@@ -9,7 +9,6 @@ category:
 summary: React Beginning Chep1
 keywords: blog
 thumbnail: "/assets/img/posts/logo-og.png"
-permalink: "/blog/React-Beginning/"
 usemathjax: false
 ---
 

@@ -10,7 +10,6 @@ category:
 summary: git 
 keywords: blog
 thumbnail: "/assets/img/posts/gitaction.png"
-permalink: "/blog/git-Beginning/"
 usemathjax: false
 ---
 

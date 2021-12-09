@@ -10,7 +10,6 @@ category:
 summary: travisci Beginning Chep1
 keywords: blog
 thumbnail: "/assets/img/posts/travis.png"
-permalink: "/blog/travisci-Beginning/"
 usemathjax: false
 ---
 

@@ -9,7 +9,6 @@ category:
 summary: python Beginning Chep1
 keywords: blog
 thumbnail: "/assets/img/posts/python-logo.png"
-permalink: "/blog/python-Beginning/"
 usemathjax: false
 ---
 
