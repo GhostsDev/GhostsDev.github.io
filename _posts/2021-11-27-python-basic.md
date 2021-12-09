@@ -12,7 +12,6 @@ thumbnail: "/assets/img/posts/python-logo.png"
 permalink: "/blog/python-Beginning/"
 usemathjax: false
 ---
-{% include python-table-of-contents.html %}
 
 ~~~javascript
 function syntaxHighlight(code) {
