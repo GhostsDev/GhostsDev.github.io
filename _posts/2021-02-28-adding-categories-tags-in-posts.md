@@ -7,7 +7,6 @@ date: '2021-02-28 1:35:23 +0530'
 category:
 - jekyll
 - guides
-- sample_category
 tags: jekyll
 thumbnail: "/assets/img/posts/code.jpg"
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll,
