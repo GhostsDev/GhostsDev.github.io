@@ -1,6 +1,6 @@
 ---
 layout: page
-title: react
+title: netlify
 permalink: /blog/categories/netlify/
 ---
 

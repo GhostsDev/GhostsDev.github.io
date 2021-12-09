@@ -1,6 +1,6 @@
 ---
 layout: page
-title: react
+title: coding
 permalink: /blog/categories/coding/
 ---
 

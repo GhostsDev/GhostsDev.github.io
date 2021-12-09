@@ -1,6 +1,6 @@
 ---
 layout: page
-title: react
+title: blog
 permalink: /blog/categories/blog/
 ---
 
