@@ -8,7 +8,7 @@ category: react
 summary: React Beginning Chep0
 keywords: blog
 thumbnail: /assets/img/posts/logo-og.png
-permalink: /blog/react/
+permalink: /blog/categories/react
 ---
 
 # nodejs 검색후 최신버젼 설치
