@@ -9,19 +9,19 @@ category:
 - study
 summary: Jekyll Beginning Chep1
 keywords: blog
-thumbnail: "/assets/img/posts/logo-og.png"
+thumbnail: "/assets/img/posts/jekyll.png"
 usemathjax: false
 ---
 
 
-![Screenshot](https://drive.google.com/uc?export=view&id=1VCnN949u6AEM_AKTr2WgbcJWjBB5NXwI){:.lead width="1920" height="1080" loading="lazy"}
+![Screenshot](https://drive.google.com/uc?export=view&id=1VCnN949u6AEM_AKTr2WgbcJWjBB5NXwI){:.lead width="400"  loading="lazy"}
 
 ## Jekyll's What is ?
 Jekyll은 여러 텍스트 파일로부터 정적 웹사이트 구축을 위한 파일을 생성해주는 프레임워크이다.
 쉽게 말해서 Jekyll은 다양한 형식의 텍스트 파일을 웹 페이지 구성 요소인 HTML, CSS로 변환해준다.
 
 Jekyll에서 특히 내가 좋아하는 기능은 Markdown으로 작성한 문서를 HTML 파일로 변환시켜주는 기능이다.
-Markdown으로 한 줄 작성하면 그 한 줄은 HTML의 `<p</p` 태그로 변환된다.
+Markdown으로 한 줄 작성하면 그 한 줄은 HTML의 `<p></p>` 태그로 변환된다.
 물론 단순히 변환만으로 끝나는 것이 아니다. 정적 웹사이트를 만든다는 목적에 맞게, 변환된 내용이 그럴듯한 웹 화면으로 보이게끔 자동화된 방법으로 페이지를 꾸미는 것을 돕는다.
 
 또한 인터넷에 아주 많은 Jekyll Theme이 올라와 있으므로 웹 페이지를 빈 화면으로부터 하나하나 다 만들 필요가 없으며, 적당한 테마를 다운받고 가져다 쓰면 된다. 이쁜 테마를 선택했고 뷰가 맘에 든다면 별다른 수정없이 그저 포스팅만 해도 된다.
@@ -33,14 +33,15 @@ Markdown으로 한 줄 작성하면 그 한 줄은 HTML의 `<p</p` 태그로 변
 
 
 ### jekyll 설치전 ruby 업데이트 방법
-  ` sudo gem install rubygems-update `
-  ` sudo update_rubygems ` 
-  ` sudo gem update --system `
-
+```Diff
+   sudo gem install rubygems-update 
+   sudo update_rubygems 
+   sudo gem update --system 
+```
 ###  ruby 재설치
 - ![ruby](https://stackoverflow.com/questions/1954206/cant-update-rubygems)
 ```bash 
-If you've already tried to update, uninstall the latest rubygems-update first: sudo gem uninstall rubygems-update -v 1.3.5
+If you ve already tried to update, uninstall the latest rubygems-update first: sudo gem uninstall rubygems-update -v 1.3.5
 Update to 1.3.0: sudo gem install rubygems-update -v 1.3.0
 sudo update_rubygems
 Then update to latest: sudo gem update --system
