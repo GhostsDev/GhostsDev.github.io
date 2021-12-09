@@ -49,8 +49,9 @@ Then update to latest: sudo gem update --system
 
 
 ## jekyll 구조 설명
-<blockquote>
-<p> This line of text is meant to be deleted text _config.yml
+
+```jsx
+This line of text is meant to be deleted text _config.yml
 환경설정 정보를 담고 있다. head에 넣는 메타 정보3와 비슷한 정보를 담기도 하고 baseurl, url 등도 설정할 수 있다.
 
  _drafts
@@ -72,4 +73,5 @@ _site
 Jekyll이 다른 디렉터리에 있는 모든 파일을 활용해서 Site로 자동 변환 작업을 마치면 그 파일들이 저장되는 폴더이다. _site 폴더 내 파일은 건드리면 안 된다.
 
 index.html
-블로그에 접속했을 때 제일 먼저 자동으로 보여주는 파일이다. </p></blockquote>
+블로그에 접속했을 때 제일 먼저 자동으로 보여주는 파일이다.
+```
