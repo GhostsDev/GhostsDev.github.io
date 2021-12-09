@@ -30,7 +30,9 @@ author_email: "memories109@gmail.com"
 author_location: Seoul
 author_website_url: "https://github.com/memories109"
 typewrite-text: Patterning your life around other's opinions is nothing more than slavery.
+#다른 사람의 생각에 인생을 맞춰가는 것은 노예나 다름없다.
 hero_cover_img: customeCover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+
 
 # Experiences
 author_work_experiences:
@@ -76,8 +78,8 @@ github_username:  memories109
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
-disqus_shortname: https-ghostsdev-github-io
-# hyvor_talk_website_id: 5854
+# disqus_shortname: https-ghostsdev-github-io
+hyvor_talk_website_id: 5854
 
 # wakatime username (coding activity)
 wakatime_username: memories109
