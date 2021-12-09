@@ -48,7 +48,7 @@ Then update to latest: sudo gem update --system
 ```
 
 
-## jekyll Hydejack 구조 설명
+## jekyll 구조 설명
 <blockquote>
 <p> This line of text is meant to be deleted text _config.yml
 환경설정 정보를 담고 있다. head에 넣는 메타 정보3와 비슷한 정보를 담기도 하고 baseurl, url 등도 설정할 수 있다.
