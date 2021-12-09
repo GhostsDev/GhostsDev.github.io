@@ -15,6 +15,7 @@ usemathjax: false
 ## React 구조   ✨
   ![react](/assets/img/posts/folder.png)
   - 기본적인 React 구조를 확인 할 수 있다. 
+
 ```jsx
 /* index.js */
 import React from 'react';
@@ -31,6 +32,7 @@ ReactDOM.render(
 );
 reportWebVitals();
 ```
+
 - App.js 기본 메인페이지 들어갈 HTML 코딩을 짜는곳 
 ```jsx
 /* App.js */
