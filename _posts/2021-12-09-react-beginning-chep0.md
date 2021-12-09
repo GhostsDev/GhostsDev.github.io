@@ -43,8 +43,8 @@ npm start
 {% endhighlight %}
 
 실행이 되는 확인보자 
-
+React의 기본 포트는 3000으로 시작한다. 
 
 ![react](/assets/img/posts/localbasic.png)
-React의 기본 포트는 3000으로 시작한다. 
+
 
