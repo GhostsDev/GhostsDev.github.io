@@ -9,7 +9,7 @@ category:
 summary: React Beginning Chep0
 keywords: blog
 thumbnail: "/assets/img/posts/logo-og.png"
-permalink: "/blog/categories-react/"
+permalink: "/blog/React-Beginning/"
 usemathjax: false
 ---
 ## nodejs 검색후 최신버젼 설치
