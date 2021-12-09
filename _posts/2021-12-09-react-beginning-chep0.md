@@ -18,22 +18,23 @@ node 설치 부터 React의 구조 파악에 중점을 두며
 실제 AWS 클라우드 서버에 배포 까지의 과정을 목표로 작성 한다. 
 ```
 ### nodejs 설치
-- Create-React-App 라이브러리를 사용하기 위해 우선 nodejs를 설치 하도록 한다. 
-- nodejs 홈페이지 접속후 버젼은 테스트 과정이기에 상관없이 다운로드 진행
+<p> Create-React-App 라이브러리를 사용하기 위해 우선 nodejs를 설치 하도록 한다. </p>
+<p> nodejs 홈페이지 접속후 버젼은 테스트 과정이기에 상관없이 다운로드 진행</p>
  nodejs.org
   ![react](/assets/img/posts/reactsetting.png)
 ### nodejs를 설치가 되면 이제 부터 npm를 사용할수 있다.
 <code class="highlighter-rouge">
 npm 은 nodejs 패키지 관리툴이다. 
 </code>
+
 ###  React 기본 프로젝트 생성
-- nodejs 를 설치 해야지 create-react-app 사용이 가능
+<p> nodejs 를 설치 해야지 create-react-app 사용이 가능</p>
 <code class="highlighter-rouge">
 npx create-react-app blog 
 </code>
 
 
-- vscode 에서 React 설치
+<p> vscode 에서 React 설치</p>
   ![react](/assets/img/posts/create-react-app.png)
   ![react](/assets/img/posts/setup.png)
 
@@ -43,7 +44,9 @@ npx create-react-app blog
 cd project
 npm start
 </code>
-잘실행이 되는 확인보자 
+<p>잘실행이 되는 확인보자 </p>
 
-- React의 기본 포트는 3000으로 시작한다. 
+
 ![react](/assets/img/posts/localbasic.png)
+<p> React의 기본 포트는 3000으로 시작한다. </p>
+
