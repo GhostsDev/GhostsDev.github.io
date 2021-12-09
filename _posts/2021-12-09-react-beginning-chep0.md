@@ -2,7 +2,7 @@
 layout: post
 author: Ghosts
 title: React Beginning Chep0
-date: 2021-12-09T11:28:03.104Z
+date: 2020-12-09T11:28:03.104Z
 category:
 - react
 - study
