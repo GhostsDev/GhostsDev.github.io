@@ -21,7 +21,8 @@ node 설치 부터 React의 구조 파악에 중점을 두며
 ### nodejs 설치
 
 Create-React-App 라이브러리를 사용하기 위해 우선 nodejs를 설치 하도록 한다. 
-nodejs 홈페이지 접속후 버젼은 테스트 과정이기에 상관없이 다운로드 진행
+nodejs
+ 홈페이지 접속후 버젼은 테스트 과정이기에 상관없이 다운로드 진행
  nodejs.org
   ![react](/assets/img/posts/reactsetting.png)
 
@@ -46,6 +47,6 @@ npm start
 {% endhighlight %}
 
 실행이 되는 확인보자 
-
-![react](/assets/img/posts/localbasic.png)
 React의 기본 포트는 3000으로 시작한다.
+![react](/assets/img/posts/localbasic.png)
+
