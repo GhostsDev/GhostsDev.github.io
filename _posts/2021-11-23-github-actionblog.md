@@ -21,12 +21,12 @@ usemathjax: false
 
 ### GitHub Action 설정방법
  - 기본 설정 방법
-![gitAction](/assets/img/posts/gitaction.png)
+![gitAction](/assets/img/posts/gitaction.png){:class="img-fluid"}
 
 Github Action의 메뉴 구성들이다. Jekyll Workflow를 사용하기 설치 해준다. 
 
-![gitAction](/assets/img/posts/gitaction2.png)
+![gitAction](/assets/img/posts/gitaction2.png){:class="img-fluid"}
 - 코드 
-![gitAction](/assets/img/posts/blog4.png)
+![gitAction](/assets/img/posts/blog4.png){:class="img-fluid"}
 
 - 빌드 과정

@@ -25,7 +25,7 @@ node 설치 부터 React의 구조 파악에 중점을 두며
 nodejs
 - 홈페이지 접속후 버젼은 테스트 과정이기에 상관없이 다운로드 진행
  nodejs.org
-  ![react](/assets/img/posts/reactsetting.png)
+  ![react](/assets/img/posts/reactsetting.png){:class="img-fluid"}
 
 ### nodejs를 설치가 되면 이제 부터 npm를 사용할수 있다.
 
@@ -37,7 +37,7 @@ nodejs
 `npx create-react-app blog`
 
 - vscode 에서 React 설치
-  ![react](/assets/img/posts/create-react-app.png)
+  ![react](/assets/img/posts/create-react-app.png){:class="img-fluid"}
 
 
  - 설치가 완료된 이후 해당 폴더로 이동후 실행되는지 확인한다.
@@ -49,5 +49,5 @@ npm start
 
 - 실행이 되는 확인보자 
 - React의 기본 포트는 3000으로 시작한다.
-![react](/assets/img/posts/localbasic.png)
+![react](/assets/img/posts/localbasic.png){:class="img-fluid"}
 

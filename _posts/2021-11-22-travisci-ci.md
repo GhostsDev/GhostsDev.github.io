@@ -1,8 +1,8 @@
 ---
 layout: post
 author: Ghosts
-title: jekyll Travis CI 배포 자동화
-excerpt: "jekyll Travis CI 배포 자동화(1)"
+title: Travis CI 배포 자동화
+excerpt: "Travis CI 배포 자동화(1)"
 date: 2021-12-09T11:28:03.104Z
 category:
 - travisci

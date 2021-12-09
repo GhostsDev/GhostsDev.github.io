@@ -14,7 +14,7 @@ usemathjax: false
 ---
 
 
-![Screenshot](https://drive.google.com/uc?export=view&id=1VCnN949u6AEM_AKTr2WgbcJWjBB5NXwI){:.lead width="400"  loading="lazy"}
+![Screenshot](https://drive.google.com/uc?export=view&id=1VCnN949u6AEM_AKTr2WgbcJWjBB5NXwI){:class="img-fluid"}
 
 ## Jekyll's What is ?
 Jekyll은 여러 텍스트 파일로부터 정적 웹사이트 구축을 위한 파일을 생성해주는 프레임워크이다.
@@ -29,7 +29,7 @@ Markdown으로 한 줄 작성하면 그 한 줄은 HTML의 `<p></p>` 태그로 �
 예를들어, 내 블로그의 데스크탑 모드 화면에서 상단 메뉴(Topbar)와 왼쪽 사이드바는 내가 직접 HTML, CSS를 수정 및 적용했다. 또 Jekyll의 도움으로 다른 페이지에서도 항상 이 2가지가 화면에 보이도록 자동화했다. (반응형 웹으로 만들었기 때문에 모바일 모드로 보면 좀 다르다.)
 동시에 포스트 페이지의 글 부분은 Markdown으로 작성하였다. 이것을 Jekyll이 자동으로 HTML 파일로 변환했고, 나는 그저 Markdown 포스트가 HTML로 변환된 이후를 가정하고 항상 페이지의 중앙에 보이게끔 배치하였다 (Layout을 만들었다).
 
-[#jekyllrb](https://jekyllrb.com/docs/)
+[#jekyllrb](https://jekyllrb.com/docs/){:class="img-fluid"}
 
 
 ### jekyll 설치전 ruby 업데이트 방법

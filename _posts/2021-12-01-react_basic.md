@@ -13,7 +13,7 @@ usemathjax: false
 ---
 
 ## React 구조   ✨
-  ![react](/assets/img/posts/folder.png)
+  ![react](/assets/img/posts/folder.png){:class="img-fluid"}
   - 기본적인 React 구조를 확인 할 수 있다. 
 
 ```jsx
