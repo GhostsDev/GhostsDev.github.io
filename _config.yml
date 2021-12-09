@@ -33,29 +33,59 @@ typewrite-text: Patterning your life around other's opinions is nothing more tha
 #다른 사람의 생각에 인생을 맞춰가는 것은 노예나 다름없다.
 hero_cover_img: customeCover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
-
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: 삼정데이타서비스
+              company_logo: mailnara.png
+              company_url: https://www.mailnara.co.kr/
+              designation: 메일 통합관리 시스템 
+              description: php 프레임워크 , java 전환 
+                           Naver 초청강사  Spring Data JPA 자바 관계형 데이터 정의 개념 
+                           Hibernate 기술명세 구조 파악 습득
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+
+            - company_name: LG
+              company_logo: lgwatch.jpeg
+              company_url: https://webostv.developer.lge.com/develop/enyo-enact-developer-guide/
+              designation: LG Smart W2 앱 개발
+              description: EnyoJs 사용
+                           객체 지향 캡슐화 및 모듈성을 강조하는 크로스 플랫폼 모바일
+                           스마트 워치 프론트엔드 개발 , 기획 및 프로젝트 총괄,초기 디자인패턴 및 유지보수
+                           개발환경 linux, androidWear, EnyoJS, Json, jQuery, RESTful API
+              visibility: true
+
+            - company_name: KShop
+              company_logo: kshop.png
+              company_url: https://www.kshop.co.kr/#2
+              designation: KShop 쇼핑몰
+              description: 포털 메인 , 서비스 메인 개발자로 개발/운영
+                           전자정부 프레임워크, MyBatis, AngluerJs 오픈소스 프레임워크 
+                           SpringBoot , MyBatis, Ehcache를 사용한 서비스 성능 개선
+              visibility: true
+
+            - company_name: 금융보안교육센터
+              company_logo: 
+              company_url: 
+              designation: 이러닝 솔루션 유지보수
+              description: 포털 메인 , 서비스 메인 개발자로 개발/운영
               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: education.png
+                college_name: 임베디드리눅스교육센터
+                college_url: https://www.inflearn.com/courses/it-programming
+                college_degree: 리눅스 서버 관리 
+                description: 리눅스 기초에서 부터 서버 설치까지 교육 과정을 수료
+                             실무에 적용 되는 리눅스 서버에 대해서 중점 교육
+                visibility: true
+
+              - college_logo: education.png
+                college_name: Kh 정보교육원
+                college_url: http://www.keduit.com/?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1DSozMyYyeK1drAI8qimlamHdfCTnyFSypg1DIICaXeQN_cv3LHoSxoCLOEQAvD_BwE
+                college_degree: 이공계 전문 기술 연수사업
+                description: 훈련과정  Java Hybride Web-App 개발자 양성 과정
+                             교육내용  Java, Android, Jquery, Jsp, Spring, XML, HTML
                 visibility: true
 
 # Projects
