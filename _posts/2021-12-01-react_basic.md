@@ -16,15 +16,10 @@ usemathjax: false
   ![react](/assets/img/posts/folder.png)
   - 기본적인 React 구조를 확인 할 수 있다. 
   
-~~~javascript
+<script src="https://gist.github.com/memories109/e5e92c97fbbe2d45a405c1cd6d42b453.js"></script>
 
-{% gist memories109/e5e92c97fbbe2d45a405c1cd6d42b453 %}
-~~~
 - App.js 기본 메인페이지 들어갈 HTML 코딩을 짜는곳 
-
-~~~javascript
-{% gist memories109/5f43a8ed76c0f376705c941cb188a855 %}
-~~~
+<script src="https://gist.github.com/memories109/e5e92c97fbbe2d45a405c1cd6d42b453.js"></script>
 
 ### ReactDOM이란 
 -  React는 모듈화 ReactDOM이 실행이 되면 App에 담겨져 있는 내용을 public/index.html 경로에 있는 id='root'에 렌더링 하도록 되어있는 구조이다. 
@@ -46,4 +41,3 @@ usemathjax: false
 - public : public 웹사이트 static 파일들 보관함  
 - src : 소스 코드 보관함
 - package.json : 설치한 라이브러리 목록
-- 
