@@ -4,7 +4,7 @@ author: Ghosts
 title: React Beginning Chep0
 date: 2021-12-09T11:28:03.104Z
 thumbnail-img: /assets/img/posts/logo-og.png
-category: react
+category: List [ "react", "blog" ]
 summary: React Beginning Chep0
 keywords: blog
 thumbnail: /assets/img/posts/logo-og.png
