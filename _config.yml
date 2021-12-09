@@ -16,15 +16,15 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
+    # - text: Shop
+    #   url : /shop
     
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
+author: Ghosts
 author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
 author_email: "memories109@gmail.com"
 author_location: Seoul
@@ -126,9 +126,9 @@ paginate_path: "/blog/page/:num/"
 
 collections:
   products:
-    output: true
+    output: false
   authors:
-    output: true
+    output: false
 
 defaults:
   -
