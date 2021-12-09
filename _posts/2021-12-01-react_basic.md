@@ -15,14 +15,53 @@ usemathjax: false
 ## React 구조   ✨
   ![react](/assets/img/posts/folder.png)
   - 기본적인 React 구조를 확인 할 수 있다. 
-  
-<script src="https://gist.github.com/memories109/e5e92c97fbbe2d45a405c1cd6d42b453.js"></script>
+```jsx
+/* index.js */
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+import App from './App';
+import reportWebVitals from './reportWebVitals';
 
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById('root')
+);
+reportWebVitals();
+```
 - App.js 기본 메인페이지 들어갈 HTML 코딩을 짜는곳 
-<script src="https://gist.github.com/memories109/e5e92c97fbbe2d45a405c1cd6d42b453.js"></script>
+```jsx
+/* App.js */
+import import logo from './logo.svg';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+      </header>
+    </div>
+  );
+}
+export default App;
+```
 
 ### ReactDOM이란 
--  React는 모듈화 ReactDOM이 실행이 되면 App에 담겨져 있는 내용을 public/index.html 경로에 있는 id='root'에 렌더링 하도록 되어있는 구조이다. 
+- React는 모듈화 ReactDOM이 실행이 되면 App에 담겨져 있는 내용을 public/index.html 경로에 있는 id='root'에 렌더링 하도록 되어있는 구조이다. 
 
 ~~~javascript
 /* public/index.html line 27~31 */
