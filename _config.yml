@@ -29,8 +29,8 @@ author_bio: 개인정보 공유, 포트폴리오 제작 , 블러그 관리, 하�
 author_email: "memories109@gmail.com"
 author_location: Seoul
 author_website_url: "https://github.com/memories109"
-typewrite-text: Patterning your life around other's opinions is nothing more than slavery.
-#다른 사람의 생각에 인생을 맞춰가는 것은 노예나 다름없다.
+typewrite-text: The road to success and the road to failure are almost exactly the same.
+#성공으로 가는 길과 실패로 가는 길을 거의 같다. – Colin R. Davis
 hero_cover_img: customeCover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
