@@ -34,6 +34,7 @@ reportWebVitals();
 ```
 
 - App.js 기본 메인페이지 들어갈 HTML 코딩을 짜는곳 
+
 ```jsx
 /* App.js */
 import import logo from './logo.svg';
